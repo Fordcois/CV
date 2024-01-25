@@ -1,7 +1,7 @@
 # SAMUEL FORD
 Email: Samueljamesford@googlemail.com | Github: [Fordcois](https://github.com/Fordcois)
 ## SUMMARY
-Junior Developer with a background in sales & account management, I bring a proven track record of delivering results in fast-paced, product-led environments and working with multiple stakeholders. A recent graduate from Makers Academy, I am eager to contribute my expertise to a new team while continuing to expand and develop my skill set.
+Junior Developer with a background in sales & account management, I bring a proven track record of delivering results in fast-paced, product-led environments, and working with multiple stakeholders. A recent graduate from Makers Academy, I am eager to contribute my expertise to a new team while continuing to expand and develop my skill set.
 ## TECHNICAL SKILLS
 **Languages:** Python, JavaScript, Kotlin
 
